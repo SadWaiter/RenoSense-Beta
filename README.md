@@ -1,3 +1,4 @@
 # RenoSense-Beta
-I will post here RenoSense Beta versions
+RenoSense is now semi-private client
+So i will post here RenoSense Beta versions
 for those, who can't boost RS Discord server

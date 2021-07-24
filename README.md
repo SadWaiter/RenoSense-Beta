@@ -1,4 +1,2 @@
 # RenoSense-Beta
-RenoSense is now semi-private client.
-So i will post here RenoSense Beta versions :^)
-
+RenoSense is a utility mod for 1.12.2 that is used on 2b2t and other anarchy servers.

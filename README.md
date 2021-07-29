@@ -4,4 +4,5 @@ Made By Sjnez and F-00 and Tvffty
 About
 RenoSense-Beta is semi-private but jar files are not security protected. It means you can post them and send to your friends for exameple. This is not leak or crack. I'm just posting these builds from private channel. Sjnez said, that he doesn't really care about leaks, so everything is ok.
 ![image](https://user-images.githubusercontent.com/82664783/126855227-f62b8468-327a-4222-bee3-43d9bf3c045a.png)
+UPD 1: RenoSense is probably dead now, so 0.7 is last beta and 0.8 is last unofficial build i found.
 

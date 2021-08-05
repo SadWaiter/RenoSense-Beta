@@ -8,5 +8,6 @@ UPD 1: RenoSense is probably dead now, so 0.7 is last beta and 0.8 is last unoff
 ![image](https://user-images.githubusercontent.com/82664783/127414661-f9c4b9d7-efb7-48c3-92eb-af19f2af1df8.png)
 Zopac isn't updating RenoSense anymore
 Zopac is pussy and ratted everyone
+RenoSense is dead now.
 
 
